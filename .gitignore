@@ -90,3 +90,7 @@ public
 
 # VS Code directory
 .vscode/
+
+index.html
+script.js
+style.css
